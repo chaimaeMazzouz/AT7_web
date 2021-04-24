@@ -1,0 +1,11 @@
+﻿
+<asp:Label  runat="server" Font-Bold="True" Font-Size="Medium"  Width="300px"></asp:Label>
+<asp:TextBox runat="server" Width="400px"></asp:TextBox>
+<asp:DropDownList runat="server" Width="410px">
+    </asp:DropDownList>
+ <asp:Button runat="server" BackColor="#1B80B8"  Font-Bold="True" ForeColor="White" Width="179px" />
+ <asp:RegularExpressionValidator runat="server"  Font-Bold="True" Font-Names="Arial" Font-Size="18px" ForeColor="#FF3300"></asp:RegularExpressionValidator>
+ <asp:RequiredFieldValidator runat="server"  Font-Bold="True" Font-Names="Arial" Font-Size="18px" ForeColor="#FF3300"></asp:RequiredFieldValidator>
+ <asp:CompareValidator runat="server"  Font-Bold="True" Font-Names="Arial" Font-Size="18px" ForeColor="#FF3300"></asp:CompareValidator>
+
+   

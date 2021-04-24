@@ -1,0 +1,4 @@
+﻿
+ <asp:Label  runat="server" Font-Bold="True" Font-Names="Arial" ForeColor="White"  Width="200px"></asp:Label>
+<asp:TextBox  runat="server" Width="300px"></asp:TextBox>
+<asp:Button runat="server" BackColor="#1B80B8" ForeColor="White" Width="500px" />

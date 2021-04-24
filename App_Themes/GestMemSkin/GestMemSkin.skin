@@ -1,0 +1,4 @@
+﻿<asp:Label  runat="server" Font-Bold="True" Font-Size="Medium"  Width="300px"></asp:Label>
+<asp:TextBox runat="server" Width="400px"></asp:TextBox>
+<asp:DropDownList runat="server" Width="410px">
+    </asp:DropDownList>
